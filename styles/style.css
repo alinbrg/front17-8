@@ -79,8 +79,10 @@ ul {
 }
 .violet {
 	background-color: violet;
+	order: 8;
 }
 .grey {
+	order: 5;
 	background-color: grey;
 }
 .yellow {
@@ -90,6 +92,7 @@ ul {
 }
 .purple {
 	background-color: purple;
+	order: 4;
 }
 .about-img {
 	width: 400px;
